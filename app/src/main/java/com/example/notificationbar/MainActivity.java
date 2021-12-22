@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
         n.setSmallIcon(R.drawable.notifications);
 
 
+        // update some values
 
         nm.notify(1,n.build());
     }
